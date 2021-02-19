@@ -1,0 +1,30 @@
+@import "~bootstrap/scss/bootstrap.scss";
+.cards-container{
+    overflow-x: auto;
+}
+
+.card-container{
+    min-width: 300px;
+}
+
+.cards{
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.line{
+    background-color: black;
+    height: 5px;
+    width: 100%;
+    margin-top: 20px;
+}
+.char{
+    width: 100%;
+    text-align: center;
+    margin: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.dropdown-menu{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
